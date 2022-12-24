@@ -1,0 +1,12 @@
+﻿Exporters	2014-M10-Imported quantity, Kilograms	2014-M11-Imported quantity, Kilograms	2014-M12-Imported quantity, Kilograms	2015-M01-Imported quantity, Kilograms	2015-M02-Imported quantity, Kilograms	2015-M03-Imported quantity, Kilograms	2015-M04-Imported quantity, Kilograms	2015-M05-Imported quantity, Kilograms	2015-M06-Imported quantity, Kilograms	2015-M07-Imported quantity, Kilograms	2015-M08-Imported quantity, Kilograms	2015-M09-Imported quantity, Kilograms	2015-M10-Imported quantity, Kilograms	2015-M11-Imported quantity, Kilograms	2015-M12-Imported quantity, Kilograms	2016-M01-Imported quantity, Kilograms	2016-M02-Imported quantity, Kilograms	2016-M03-Imported quantity, Kilograms	2016-M04-Imported quantity, Kilograms	2016-M05-Imported quantity, Kilograms	
+"World"	30198	36755	8986	39521	36619	47735	76910	74248	30579	39160	172651	30959	71089	26685	85765	42706	39263	1100714	292925	41700	
+"Australia"	18971	36691	8866	34056	25788	43444	51791	42256	25561	33390	65917	27020	43196	21844	60073	36986	36647	67373	50933	24345	
+"New Zealand"	0	0	0	0	0	0	19615	22884	0	0	98074	0	21405	0	0	0	0	516438	241986	17350	
+"United States of America"	0	53	103	0	0	0	0	0	0	1402	0	0	0	0	0	0	0	0	0	5	
+"Russian Federation"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	484178	0	0	
+"India"	0	0	0	0	3634	0	0	0	0	0	1480	797	0	0	0	627	0	0	0	0	
+"Thailand"	0	0	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	0	0	
+"Denmark"	11220	0	0	5461	7177	4261	5500	9108	4668	4360	7180	3137	6418	4743	4654	5093	2588	9822	0	0	
+"France"	0	0	17	4	0	0	0	0	0	0	0	0	0	98	0	0	4	5576	6	0	
+"Guatemala"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21014	0	0	17294	0	0	
+"Italy"	0	0	0	0	0	0	0	0	346	0	0	0	0	0	0	0	0	0	0	0	

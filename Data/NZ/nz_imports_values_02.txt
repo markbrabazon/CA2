@@ -1,0 +1,8 @@
+﻿Exporters	Imported value in 2011-M08	Imported value in 2011-M09	Imported value in 2011-M10	Imported value in 2011-M11	Imported value in 2011-M12	Imported value in 2012-M01	Imported value in 2012-M02	Imported value in 2012-M03	Imported value in 2012-M04	Imported value in 2012-M05	Imported value in 2012-M06	Imported value in 2012-M07	Imported value in 2012-M08	Imported value in 2012-M09	Imported value in 2012-M10	Imported value in 2012-M11	Imported value in 2012-M12	Imported value in 2013-M01	Imported value in 2013-M02	Imported value in 2013-M03	
+"World"	274	257	108	139	465	254	147	183	195	153	190	173	125	197	40	222	140	280	135	96	
+"Australia"	226	227	72	119	200	172	83	147	170	153	149	153	52	172	31	221	107	116	135	73	
+"Denmark"	47	29	35	18	6	0	60	31	25	0	39	17	29	24	0	0	32	30	0	22	
+"France"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"New Zealand"	0	0	0	0	254	78	0	0	0	0	0	0	43	0	0	0	0	132	0	0	
+"India"	0	0	0	0	0	3	3	0	0	0	0	0	0	0	8	0	0	0	0	0	
+"United States of America"	0	0	0	0	5	0	0	4	0	0	1	1	0	0	0	0	0	0	0	0	

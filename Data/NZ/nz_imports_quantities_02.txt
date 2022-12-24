@@ -1,0 +1,8 @@
+﻿Exporters	2011-M08-Imported quantity, Kilograms	2011-M09-Imported quantity, Kilograms	2011-M10-Imported quantity, Kilograms	2011-M11-Imported quantity, Kilograms	2011-M12-Imported quantity, Kilograms	2012-M01-Imported quantity, Kilograms	2012-M02-Imported quantity, Kilograms	2012-M03-Imported quantity, Kilograms	2012-M04-Imported quantity, Kilograms	2012-M05-Imported quantity, Kilograms	2012-M06-Imported quantity, Kilograms	2012-M07-Imported quantity, Kilograms	2012-M08-Imported quantity, Kilograms	2012-M09-Imported quantity, Kilograms	2012-M10-Imported quantity, Kilograms	2012-M11-Imported quantity, Kilograms	2012-M12-Imported quantity, Kilograms	2013-M01-Imported quantity, Kilograms	2013-M02-Imported quantity, Kilograms	2013-M03-Imported quantity, Kilograms	
+"World"	66645	45135	19731	25523	107352	53850	25362	32657	35952	29640	36823	31426	24695	40530	7554	48572	26353	89892	31166	18205	
+"Australia"	58065	39804	13258	22048	37690	32928	14185	25743	31802	29620	29898	28210	10956	36239	5444	48545	21117	24743	31138	14543	
+"Denmark"	8523	5285	6078	3448	1044	0	9734	5147	4127	0	6763	2921	4727	4262	0	0	5212	5059	0	3658	
+"France"	57	46	26	22	0	0	29	13	0	0	0	0	0	29	0	0	0	20	28	0	
+"New Zealand"	0	0	0	0	65694	20024	0	0	0	0	0	0	9001	0	0	0	0	60070	0	0	
+"India"	0	0	369	0	0	848	1341	0	0	0	0	0	0	0	1983	0	0	0	0	0	
+"United States of America"	0	0	0	0	2903	0	73	1754	0	0	141	285	0	0	109	0	0	0	0	0	

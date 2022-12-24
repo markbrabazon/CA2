@@ -1,0 +1,12 @@
+﻿Exporters	2013-M03-Imported quantity, Kilograms	2013-M04-Imported quantity, Kilograms	2013-M05-Imported quantity, Kilograms	2013-M06-Imported quantity, Kilograms	2013-M07-Imported quantity, Kilograms	2013-M08-Imported quantity, Kilograms	2013-M09-Imported quantity, Kilograms	2013-M10-Imported quantity, Kilograms	2013-M11-Imported quantity, Kilograms	2013-M12-Imported quantity, Kilograms	2014-M01-Imported quantity, Kilograms	2014-M02-Imported quantity, Kilograms	2014-M03-Imported quantity, Kilograms	2014-M04-Imported quantity, Kilograms	2014-M05-Imported quantity, Kilograms	2014-M06-Imported quantity, Kilograms	2014-M07-Imported quantity, Kilograms	2014-M08-Imported quantity, Kilograms	2014-M09-Imported quantity, Kilograms	2014-M10-Imported quantity, Kilograms	
+"World"	18205	20908	63392	31786	195589	20072	43926	79670	34657	58705	67097	15950	58323	34764	44608	36179	37968	39691	32602	30198	
+"Australia"	14543	17276	57151	23135	50253	14634	40603	76636	29494	55894	22260	14431	36690	28865	38874	34463	30012	36358	25561	18971	
+"Denmark"	3658	2193	5663	7310	5112	4846	3230	3027	4634	2804	4667	0	1759	5782	5428	0	7743	2786	4032	11220	
+"Fiji"	0	0	0	0	0	0	77	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"France"	0	0	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Italy"	0	0	63	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Taipei, Chinese"	0	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"New Zealand"	0	0	0	0	140163	0	0	0	0	0	40047	0	18834	0	0	0	0	0	0	0	
+"India"	0	1426	0	0	0	579	0	0	461	0	0	1508	819	0	0	300	0	0	3001	0	
+"United Kingdom"	0	0	68	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"United States of America"	0	0	447	1262	50	0	0	0	53	0	107	0	207	107	298	1404	213	543	0	0	

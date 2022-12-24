@@ -1,0 +1,12 @@
+﻿Exporters	2019-M07-Imported quantity, Kilograms	2019-M08-Imported quantity, Kilograms	2019-M09-Imported quantity, Kilograms	2019-M10-Imported quantity, Kilograms	2019-M11-Imported quantity, Kilograms	2019-M12-Imported quantity, Kilograms	2020-M01-Imported quantity, Kilograms	2020-M02-Imported quantity, Kilograms	2020-M03-Imported quantity, Kilograms	2020-M04-Imported quantity, Kilograms	2020-M05-Imported quantity, Kilograms	2020-M06-Imported quantity, Kilograms	2020-M07-Imported quantity, Kilograms	2020-M08-Imported quantity, Kilograms	2020-M09-Imported quantity, Kilograms	2020-M10-Imported quantity, Kilograms	2020-M11-Imported quantity, Kilograms	2020-M12-Imported quantity, Kilograms	2021-M01-Imported quantity, Kilograms	2021-M02-Imported quantity, Kilograms	
+"World"	23067	86754	25296	88158	40628	3243	7124	10739	13628	34024	12199	54182	110438	86317	52769	39815	29407	14160	13945	5754	
+"Australia"	3656	3075	6152	3076	3076	3076	3076	6429	3075	0	3076	3076	3076	11857	22370	0	10369	3076	3076	3076	
+"Denmark"	5582	5253	9388	6685	9227	0	3781	3682	5751	4826	7988	15882	4780	6233	2661	16047	8653	6854	2609	2678	
+"France"	0	0	0	0	25325	0	0	0	0	23542	0	0	0	23992	0	23768	0	0	0	0	
+"Ireland"	0	78000	0	0	0	0	0	0	0	0	0	0	50800	25400	0	0	0	0	0	0	
+"Italy"	0	0	0	0	0	142	0	0	0	0	0	0	0	22	0	0	0	0	0	0	
+"Japan"	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"New Zealand"	13584	0	0	77823	0	0	0	0	0	0	0	0	51383	0	26670	0	10379	0	0	0	
+"India"	0	0	9100	0	3000	0	0	0	2000	0	0	0	399	18813	0	0	0	4230	8260	0	
+"United States of America"	242	426	649	571	0	14	267	585	2802	0	1135	35224	0	0	1032	0	0	0	0	0	
+"Canada"	0	0	0	0	0	0	0	0	0	5656	0	0	0	0	0	0	0	0	0	0	

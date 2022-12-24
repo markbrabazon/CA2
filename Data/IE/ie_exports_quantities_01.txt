@@ -1,0 +1,60 @@
+﻿Importers	2008-M07-Exported quantity, Tons	2008-M08-Exported quantity, Tons	2008-M09-Exported quantity, Tons	2008-M10-Exported quantity, Tons	2008-M11-Exported quantity, Tons	2008-M12-Exported quantity	2008-M12-Unit	2009-M01-Exported quantity, Tons	2009-M02-Exported quantity, Tons	2009-M03-Exported quantity, Tons	2009-M04-Exported quantity, Tons	2009-M05-Exported quantity, Tons	2009-M06-Exported quantity, Tons	2009-M07-Exported quantity, Tons	2009-M08-Exported quantity, Tons	2009-M09-Exported quantity, Tons	2009-M10-Exported quantity, Tons	2009-M11-Exported quantity, Tons	2009-M12-Exported quantity, Tons	2010-M01-Exported quantity, Tons	2010-M02-Exported quantity, Tons	
+"World"	12810	8084	8439	9392	10270	0	Mixed	4872	7108	8348	8362	12266	15906	12738	9322	9719	8833	9182	7118	5357	4807	
+"Germany"	2321	2443	2416	3451	2673	3175	Tons	851	1284	2995	2169	5157	4171	3800	2213	3520	3721	3634	2858	1607	1955	
+"United Kingdom"	3136	2986	2497	3200	3087	0	Mixed	2180	1952	2024	2343	2272	2791	2557	2539	2770	2064	2746	2870	2695	1852	
+"France"	909	670	796	711	1790	1414	Tons	1122	1524	1056	813	918	1073	523	622	918	659	663	538	613	484	
+"Belgium"	2916	1091	1975	1270	1182	1969	Tons	296	736	1421	1326	1975	3725	3001	2498	2023	1810	1407	340	224	229	
+"Denmark"	0	0	19	0	1	160	Tons	0	0	0	0	0	0	0	0	0	2	200	5	0	75	
+"Bahamas"	21	21	0	23	22	0		0	40	0	14	33	0	13	38	0	21	27	19	15	35	
+"Cyprus"	24	29	32	25	25	24	Tons	31	35	26	0	10	28	4	24	44	28	26	11	27	26	
+"Czech Republic"	269	0	157	157	112	0		0	0	0	0	0	45	23	0	23	23	0	0	0	23	
+"Spain"	1	0	0	0	0	0		0	0	21	21	62	62	42	0	62	42	21	0	0	21	
+"Netherlands"	967	297	85	96	198	262	Tons	3	248	57	48	545	3188	1798	848	194	121	209	308	9	18	
+"Congo, Democratic Republic of the"	20	21	42	19	0	38	Tons	19	0	0	38	38	0	0	0	0	18	0	18	0	18	
+"Tanzania, United Republic of"	0	10	0	0	0	0		0	4	0	17	0	0	0	0	0	0	13	0	0	15	
+"South Africa"	31	57	32	0	0	36	Tons	2	0	20	41	0	30	30	27	20	0	53	14	41	15	
+"Malta"	16	17	14	9	17	28	Tons	12	13	16	22	0	14	11	0	25	0	28	12	14	13	
+"Seychelles"	15	0	15	0	0	0		15	0	0	21	2	0	12	12	0	0	0	0	0	12	
+"Kuwait"	0	0	0	0	0	0		0	0	0	0	0	10	0	0	0	0	0	0	0	8	
+"Greece"	0	6	0	0	4	0		5	402	5	9	10	10	6	10	10	10	0	22	7	5	
+"Bermuda"	7	0	0	0	9	0		0	0	0	0	9	0	0	0	9	0	0	0	12	4	
+"Chile"	0	38	20	19	19	0		0	19	0	19	0	0	19	19	0	19	19	0	19	0	
+"China"	0	0	0	0	0	7	Tons	0	0	0	0	12	0	0	5	0	10	0	0	0	0	
+"Congo"	0	0	0	0	0	0		0	0	0	0	0	0	0	16	0	0	0	0	17	0	
+"Algeria"	0	104	50	50	25	104	Tons	146	104	21	270	0	21	0	0	0	0	0	0	0	0	
+"Angola"	0	0	21	0	0	0		0	0	0	0	19	0	0	0	0	17	0	20	0	0	
+"Azerbaijan"	0	0	0	0	40	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Australia"	7	0	0	0	0	0		0	0	0	0	0	6	0	0	0	0	0	0	0	0	
+"Austria"	0	0	23	0	15	0		0	0	22	66	22	0	45	23	23	22	0	0	0	0	
+"Georgia"	0	0	0	20	25	0		0	0	20	0	0	0	0	0	0	0	0	0	0	0	
+"Barbados"	0	0	13	0	0	0		0	12	0	12	0	0	0	11	0	0	0	0	10	0	
+"Hong Kong, China"	8	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Indonesia"	0	0	0	0	21	0		0	0	0	0	21	0	0	21	0	21	0	0	0	0	
+"Iran, Islamic Republic of"	1340	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Israel"	40	0	0	19	0	0		0	0	0	0	0	21	20	0	0	31	0	0	0	0	
+"Italy"	21	42	42	21	210	0		10	22	0	21	42	0	21	0	0	0	20	22	0	0	
+"Japan"	13	184	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Kazakhstan"	0	0	0	0	65	60	Tons	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Kenya"	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	9	0	0	0	0	
+"Malaysia"	0	0	0	0	11	0		0	0	0	0	0	0	0	0	0	0	0	11	0	0	
+"Maldives"	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	15	0	0	0	0	
+"Gibraltar"	0	0	5	0	2	0		6	0	4	5	0	4	0	8	0	0	0	1	5	0	
+"Mauritius"	0	0	7	0	0	0		12	0	0	0	9	0	0	0	0	0	0	9	0	0	
+"Morocco"	500	0	0	0	0	100	Tons	0	0	0	0	0	100	200	0	0	0	0	0	0	0	
+"Oman"	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	10	0	
+"Namibia"	12	0	0	0	0	0		0	0	0	0	0	0	12	0	0	0	0	0	0	0	
+"Slovakia"	0	0	0	0	0	0		0	0	0	0	0	0	45	0	0	68	0	0	0	0	
+"Special categories"	0	0	0	20	0	0		0	0	0	0	0	0	21	0	0	0	0	0	0	0	
+"United States of America"	5	13	6	0	0	9	Tons	0	0	0	0	8	0	0	0	0	0	0	0	0	0	
+"United States Minor Outlying Islands"	0	0	0	16	20	0		0	0	0	0	16	0	0	0	20	17	0	0	0	0	
+"Uzbekistan"	0	0	0	232	236	60	Tons	144	0	38	0	18	0	0	0	0	0	0	0	0	0	
+"Venezuela, Bolivarian Republic of"	20	20	20	0	0	0		20	0	0	0	19	20	0	0	37	19	0	0	14	0	
+"Nigeria"	19	0	0	19	0	19	Tons	0	0	0	0	38	0	0	0	0	0	19	19	0	0	
+"Poland"	0	0	0	0	0	0		0	0	0	0	68	113	135	68	23	68	45	23	0	0	
+"Saint Vincent and the Grenadines"	0	0	4	0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Saudi Arabia"	0	0	0	0	0	100	Tons	0	0	0	0	0	0	0	0	0	0	14	0	0	0	
+"Trinidad and Tobago"	14	37	0	15	0	0		0	16	0	0	18	0	0	13	0	0	16	0	17	0	
+"United Arab Emirates"	160	0	0	0	50	0		0	0	0	9	0	0	0	10	0	0	0	0	0	0	
+"Türkiye"	0	0	0	0	260	0		0	200	0	0	0	0	0	0	0	0	0	0	0	0	
+"Turkmenistan"	0	0	0	0	50	0		0	0	0	0	0	0	0	0	0	0	25	0	0	0	
+"Egypt"	0	0	150	0	104	0		0	499	603	1078	924	475	400	300	0	0	0	0	0	0	

@@ -1,0 +1,59 @@
+﻿Importers	2010-M02-Exported quantity, Tons	2010-M03-Exported quantity, Tons	2010-M04-Exported quantity, Tons	2010-M05-Exported quantity, Tons	2010-M06-Exported quantity, Tons	2010-M07-Exported quantity, Tons	2010-M08-Exported quantity, Tons	2010-M09-Exported quantity, Tons	2010-M10-Exported quantity, Tons	2010-M11-Exported quantity, Tons	2010-M12-Exported quantity, Tons	2011-M01-Exported quantity, Tons	2011-M02-Exported quantity, Tons	2011-M03-Exported quantity, Tons	2011-M04-Exported quantity, Tons	2011-M05-Exported quantity, Tons	2011-M06-Exported quantity, Tons	2011-M07-Exported quantity, Tons	2011-M08-Exported quantity, Tons	2011-M09-Exported quantity, Tons	
+"World"	4807	8232	10907	13512	13442	12532	11359	12132	10541	13934	13308	7171	9923	11997	12241	14945	16453	14209	10460	12566	
+"Germany"	1955	3245	4409	4461	4014	2452	3776	4085	3697	4418	4396	1419	3420	3499	3972	3502	3830	3593	3248	5600	
+"United Kingdom"	1852	2144	2410	3224	3570	2953	2418	2803	2267	3178	3747	2311	2857	3778	3104	3442	3884	3394	2863	2920	
+"Belgium"	229	864	2002	3185	2737	2702	1649	2243	1183	2304	944	880	1040	1034	1379	2440	2850	3001	1802	2070	
+"France"	484	1109	665	904	1226	877	1262	1318	837	1668	2590	1007	937	2280	2294	2041	1713	1725	1046	1133	
+"Netherlands"	18	132	146	395	1475	2763	1649	526	1199	799	221	330	725	907	965	2891	3216	1977	1169	376	
+"United States of America"	0	0	0	0	0	126	90	36	18	0	0	1	0	9	160	92	75	159	90	194	
+"South Africa"	15	0	33	215	109	112	0	41	0	41	0	36	15	16	37	27	13	33	0	57	
+"Slovakia"	0	23	23	68	45	23	0	68	45	0	45	66	45	0	0	45	23	68	45	45	
+"Cyprus"	26	17	10	42	8	34	35	49	19	24	46	31	21	27	14	0	8	10	12	42	
+"Malta"	13	14	15	14	12	14	15	22	13	15	24	15	13	13	28	0	22	0	12	29	
+"Seychelles"	12	0	0	8	10	10	11	0	9	0	0	27	0	0	8	8	0	9	0	20	
+"Venezuela, Bolivarian Republic of"	0	0	0	17	0	18	0	18	0	0	0	18	0	0	17	19	0	0	0	19	
+"Chile"	0	19	0	19	0	19	19	0	23	38	0	23	18	10	0	37	0	0	23	19	
+"Nigeria"	0	0	0	19	0	19	0	0	0	0	0	19	0	0	19	0	0	0	0	19	
+"Bermuda"	4	0	0	0	0	0	0	11	0	0	0	9	0	0	0	9	0	0	0	9	
+"Spain"	21	21	187	23	85	21	83	111	0	129	36	0	62	30	51	25	4	10	0	7	
+"Gibraltar"	0	3	4	0	3	4	2	0	0	3	2	1	7	0	0	0	0	0	0	4	
+"Greece"	5	17	8	50	28	5	10	7	10	10	5	5	12	6	9	12	32	10	4	4	
+"Hungary"	0	0	0	0	0	0	0	0	0	0	0	66	0	0	0	0	0	0	0	0	
+"Indonesia"	0	0	1	21	4	0	0	0	0	2	21	0	0	0	0	0	0	0	0	0	
+"Iran, Islamic Republic of"	0	0	100	200	0	100	200	0	200	0	0	100	200	0	0	100	250	0	0	0	
+"Israel"	0	0	0	0	0	47	23	25	0	18	110	0	0	46	16	0	0	0	0	0	
+"Italy"	0	20	0	0	0	0	0	0	63	0	197	22	0	0	0	0	0	0	0	0	
+"Japan"	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	
+"Kenya"	0	0	10	0	0	0	0	0	0	0	0	0	12	0	0	0	0	7	0	0	
+"Korea, Republic of"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Kuwait"	8	0	26	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	
+"Lebanon"	0	0	25	25	0	8	0	0	25	0	0	0	0	50	0	0	0	0	0	0	
+"Malaysia"	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	
+"Georgia"	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Poland"	0	113	23	90	68	68	45	45	66	68	44	22	66	0	0	68	45	45	45	0	
+"Qatar"	0	0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Romania"	0	0	0	0	0	0	0	0	0	0	80	0	0	0	0	0	0	0	0	0	
+"Russian Federation"	0	175	175	0	0	0	0	575	250	250	0	0	0	0	0	0	0	0	0	0	
+"Saudi Arabia"	0	0	100	8	0	14	0	0	0	0	0	0	0	0	0	0	0	14	0	0	
+"China"	0	20	0	0	6	21	0	0	9	0	7	0	0	28	0	0	11	0	14	0	
+"Congo"	0	0	20	0	0	0	0	0	19	0	19	0	0	0	0	20	0	0	0	0	
+"Congo, Democratic Republic of the"	18	0	41	20	0	39	0	60	0	37	0	19	0	0	20	0	38	0	19	0	
+"Czech Republic"	23	0	23	23	0	0	0	0	0	0	0	44	0	0	0	23	0	0	0	0	
+"Denmark"	75	0	0	0	0	8	0	0	0	8	0	0	0	0	0	0	8	0	0	0	
+"Finland"	0	0	0	95	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Algeria"	0	0	20	0	0	0	0	0	0	104	104	208	0	0	18	0	0	0	0	0	
+"Angola"	0	0	0	18	0	0	15	18	18	0	0	0	0	15	0	0	14	0	0	0	
+"Azerbaijan"	0	0	0	0	0	0	0	0	300	0	125	75	0	0	0	0	0	0	0	0	
+"Austria"	0	0	0	0	0	0	0	45	90	68	0	0	0	0	0	0	23	68	0	0	
+"Bahamas"	35	0	17	36	0	55	39	0	19	15	0	20	34	13	16	25	19	31	20	0	
+"Bahrain"	0	2	0	0	9	0	0	0	0	8	0	0	0	0	0	0	0	0	4	0	
+"Barbados"	0	0	16	0	0	13	0	0	0	12	0	0	15	0	14	0	0	0	17	0	
+"Trinidad and Tobago"	0	0	0	18	0	0	18	18	0	0	0	18	0	18	0	19	19	0	15	0	
+"United Arab Emirates"	0	0	0	0	7	0	0	0	0	0	7	0	0	0	0	0	7	0	0	0	
+"Türkiye"	0	250	0	100	0	0	0	0	125	0	0	0	0	0	0	0	0	12	0	0	
+"Egypt"	0	0	400	200	0	0	0	0	0	0	242	200	300	100	0	0	0	0	0	0	
+"Singapore"	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	17	0	0	
+"Mauritius"	0	6	0	0	0	10	0	10	0	9	0	0	0	11	0	0	0	14	13	0	
+"Morocco"	0	0	0	0	0	0	0	0	0	700	300	180	125	95	100	100	350	0	0	0	
+"United States Minor Outlying Islands"	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Tanzania, United Republic of"	15	0	0	0	17	0	0	0	0	7	0	0	0	13	0	0	0	14	0	0	

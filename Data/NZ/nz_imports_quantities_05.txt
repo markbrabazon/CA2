@@ -1,0 +1,16 @@
+﻿Exporters	2016-M05-Imported quantity, Kilograms	2016-M06-Imported quantity, Kilograms	2016-M07-Imported quantity, Kilograms	2016-M08-Imported quantity, Kilograms	2016-M09-Imported quantity, Kilograms	2016-M10-Imported quantity, Kilograms	2016-M11-Imported quantity, Kilograms	2016-M12-Imported quantity, Kilograms	2017-M01-Imported quantity, Kilograms	2017-M02-Imported quantity, Kilograms	2017-M03-Imported quantity, Kilograms	2017-M04-Imported quantity, Kilograms	2017-M05-Imported quantity, Kilograms	2017-M06-Imported quantity, Kilograms	2017-M07-Imported quantity, Kilograms	2017-M08-Imported quantity, Kilograms	2017-M09-Imported quantity, Kilograms	2017-M10-Imported quantity, Kilograms	2017-M11-Imported quantity, Kilograms	2017-M12-Imported quantity, Kilograms	
+"World"	41700	80900	92783	70554	112352	89250	105423	144900	54981	79595	145052	101553	91718	16554	11816	16092	48844	6875	39891	32614	
+"New Zealand"	17350	0	0	779	0	25940	18645	0	0	0	0	0	0	0	55	0	0	0	0	20240	
+"Denmark"	0	7767	5936	0	8529	7624	5061	7039	4827	5422	8160	2430	0	10582	5273	11985	8669	3575	5781	9050	
+"Australia"	24345	72644	68646	45843	62029	51532	79873	137747	49472	73764	108446	98711	41303	5972	3300	0	37681	3300	8479	3300	
+"France"	0	0	0	23932	0	357	1844	0	0	0	25176	2	49800	0	0	0	2494	0	0	24	
+"Hong Kong, China"	0	0	18000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Ireland"	0	0	0	0	41560	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Italy"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	69	0	0	0	0	
+"Korea, Republic of"	0	0	0	0	0	0	0	0	682	0	0	0	0	0	0	0	0	0	0	0	
+"Russian Federation"	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"India"	0	0	0	0	0	2634	0	0	0	0	3267	0	0	0	3087	704	0	0	0	0	
+"Viet Nam"	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Ukraine"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25625	0	
+"United States of America"	5	471	150	0	225	0	0	111	0	409	3	410	295	0	101	0	0	0	6	0	
+"Canada"	0	0	0	0	0	1124	0	0	0	0	0	0	320	0	0	3334	0	0	0	0	

@@ -1,0 +1,15 @@
+﻿Exporters	2017-M12-Imported quantity, Kilograms	2018-M01-Imported quantity, Kilograms	2018-M02-Imported quantity, Kilograms	2018-M03-Imported quantity, Kilograms	2018-M04-Imported quantity, Kilograms	2018-M05-Imported quantity, Kilograms	2018-M06-Imported quantity, Kilograms	2018-M07-Imported quantity, Kilograms	2018-M08-Imported quantity, Kilograms	2018-M09-Imported quantity, Kilograms	2018-M10-Imported quantity, Kilograms	2018-M11-Imported quantity, Kilograms	2018-M12-Imported quantity, Kilograms	2019-M01-Imported quantity, Kilograms	2019-M02-Imported quantity, Kilograms	2019-M03-Imported quantity, Kilograms	2019-M04-Imported quantity, Kilograms	2019-M05-Imported quantity, Kilograms	2019-M06-Imported quantity, Kilograms	2019-M07-Imported quantity, Kilograms	
+"World"	32614	3153	15069	19678	32998	34514	12256	47919	15334	102710	13382	25100	14522	12939	151518	27789	6966	245208	43303	23067	
+"New Zealand"	20240	0	0	0	25940	0	0	0	0	27382	0	11610	0	0	125954	0	0	232644	31809	13584	
+"Denmark"	9050	0	8469	7763	6975	4096	6651	5680	5223	5126	4087	3411	11118	0	15024	3438	0	5059	4670	5582	
+"Australia"	3300	0	6600	10830	83	6600	3300	0	9900	3293	3300	3300	3300	3300	6600	0	6376	6379	3075	3656	
+"United States of America"	0	0	0	825	0	0	0	42224	208	417	485	476	101	0	0	601	587	1123	0	242	
+"India"	0	3153	0	260	0	0	2200	0	0	0	1966	3050	0	0	0	0	0	0	3700	0	
+"Singapore"	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	
+"Türkiye"	0	0	0	0	0	0	0	0	0	0	3541	0	0	0	0	0	0	0	0	0	
+"Ukraine"	0	0	0	0	0	0	0	0	0	52832	0	0	0	0	0	0	0	0	0	0	
+"Canada"	0	0	0	0	0	0	0	0	0	0	0	3250	0	0	0	0	0	0	0	0	
+"China"	0	0	0	0	0	0	105	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"France"	24	0	0	0	0	23818	0	0	0	0	0	0	0	9639	3909	23750	0	0	0	0	
+"Hong Kong, China"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	
+"Ireland"	0	0	0	0	0	0	0	0	0	13660	0	0	0	0	0	0	0	0	0	0	

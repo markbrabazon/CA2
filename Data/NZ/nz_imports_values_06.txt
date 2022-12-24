@@ -1,0 +1,15 @@
+﻿Exporters	Imported value in 2017-M12	Imported value in 2018-M01	Imported value in 2018-M02	Imported value in 2018-M03	Imported value in 2018-M04	Imported value in 2018-M05	Imported value in 2018-M06	Imported value in 2018-M07	Imported value in 2018-M08	Imported value in 2018-M09	Imported value in 2018-M10	Imported value in 2018-M11	Imported value in 2018-M12	Imported value in 2019-M01	Imported value in 2019-M02	Imported value in 2019-M03	Imported value in 2019-M04	Imported value in 2019-M05	Imported value in 2019-M06	Imported value in 2019-M07	
+"World"	171	13	101	111	150	191	81	240	109	418	83	167	100	78	674	149	56	899	222	150	
+"New Zealand"	89	0	0	0	103	0	0	0	0	134	0	61	0	0	499	0	0	811	144	81	
+"Denmark"	57	0	52	51	47	27	44	37	33	33	26	25	73	0	103	25	0	26	31	37	
+"Australia"	24	0	49	49	0	49	24	0	73	24	24	25	25	25	51	0	50	50	24	30	
+"United States of America"	0	0	0	6	0	0	0	202	1	3	4	5	0	0	0	5	5	9	0	2	
+"India"	0	13	0	4	0	0	11	0	0	0	9	17	0	0	0	0	0	0	20	0	
+"Singapore"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Türkiye"	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	0	
+"Ukraine"	0	0	0	0	0	0	0	0	0	205	0	0	0	0	0	0	0	0	0	0	
+"Canada"	0	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	
+"China"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"France"	0	0	0	0	0	114	0	0	0	0	0	0	0	53	19	117	0	0	0	0	
+"Hong Kong, China"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Ireland"	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	

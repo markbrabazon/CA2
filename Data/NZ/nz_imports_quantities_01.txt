@@ -1,0 +1,9 @@
+﻿Exporters	2010-M01-Imported quantity, Kilograms	2010-M02-Imported quantity, Kilograms	2010-M03-Imported quantity, Kilograms	2010-M04-Imported quantity, Kilograms	2010-M05-Imported quantity, Kilograms	2010-M06-Imported quantity, Kilograms	2010-M07-Imported quantity, Kilograms	2010-M08-Imported quantity, Kilograms	2010-M09-Imported quantity, Kilograms	2010-M10-Imported quantity, Kilograms	2010-M11-Imported quantity, Kilograms	2010-M12-Imported quantity, Kilograms	2011-M01-Imported quantity, Kilograms	2011-M02-Imported quantity, Kilograms	2011-M03-Imported quantity, Kilograms	2011-M04-Imported quantity, Kilograms	2011-M05-Imported quantity, Kilograms	2011-M06-Imported quantity, Kilograms	2011-M07-Imported quantity, Kilograms	2011-M08-Imported quantity, Kilograms	
+"World"	21240	39206	31322	25563	49581	28635	15929	32660	28092	29833	20176	210598	24278	16801	110873	40483	45852	20335	41544	66645	
+"Australia"	12596	35210	26531	24239	13268	24244	15075	24244	24244	24224	15560	61537	24064	13268	103701	32989	45805	14032	36670	58065	
+"Denmark"	7024	3953	4779	0	7857	4379	0	7674	3810	4436	3004	1767	0	0	6283	6846	0	6275	4849	8523	
+"France"	46	0	0	0	0	0	0	0	38	0	27	76	25	33	56	29	47	0	25	57	
+"New Zealand"	0	0	0	0	28229	0	0	0	0	0	0	147218	0	0	0	0	0	0	0	0	
+"India"	1574	0	0	1308	0	0	381	728	0	1162	1585	0	0	3500	614	399	0	0	0	0	
+"United States of America"	0	0	0	0	218	0	447	0	0	0	0	0	189	0	219	220	0	0	0	0	
+"Fiji"	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,12 @@
+﻿Exporters	Imported value in 2014-M10	Imported value in 2014-M11	Imported value in 2014-M12	Imported value in 2015-M01	Imported value in 2015-M02	Imported value in 2015-M03	Imported value in 2015-M04	Imported value in 2015-M05	Imported value in 2015-M06	Imported value in 2015-M07	Imported value in 2015-M08	Imported value in 2015-M09	Imported value in 2015-M10	Imported value in 2015-M11	Imported value in 2015-M12	Imported value in 2016-M01	Imported value in 2016-M02	Imported value in 2016-M03	Imported value in 2016-M04	Imported value in 2016-M05	
+"World"	178	188	51	206	195	218	361	392	176	224	666	136	347	104	420	208	222	3228	920	200	
+"Australia"	106	187	50	169	130	189	261	229	143	187	303	116	195	73	322	174	206	371	277	132	
+"New Zealand"	0	0	0	0	0	0	61	114	0	0	311	0	110	0	0	0	0	1402	642	68	
+"Russian Federation"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1303	0	0	
+"India"	0	0	0	0	17	0	0	0	0	0	7	2	0	0	0	2	0	0	0	0	
+"Thailand"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+"United States of America"	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	
+"Denmark"	71	0	0	36	47	29	38	48	29	26	44	17	38	29	29	31	16	60	0	0	
+"France"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	
+"Guatemala"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	68	0	0	67	0	0	
+"Italy"	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	

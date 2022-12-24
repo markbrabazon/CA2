@@ -1,0 +1,120 @@
+﻿Importers	2017-M12-Exported quantity, Kilograms	2018-M01-Exported quantity, Kilograms	2018-M02-Exported quantity, Kilograms	2018-M03-Exported quantity, Kilograms	2018-M04-Exported quantity	2018-M04-Unit	2018-M05-Exported quantity	2018-M05-Unit	2018-M06-Exported quantity, Kilograms	2018-M07-Exported quantity, Kilograms	2018-M08-Exported quantity, Kilograms	2018-M09-Exported quantity, Kilograms	2018-M10-Exported quantity, Kilograms	2018-M11-Exported quantity	2018-M11-Unit	2018-M12-Exported quantity, Kilograms	2019-M01-Exported quantity, Kilograms	2019-M02-Exported quantity	2019-M02-Unit	2019-M03-Exported quantity	2019-M03-Unit	2019-M04-Exported quantity	2019-M04-Unit	2019-M05-Exported quantity, Kilograms	2019-M06-Exported quantity, Kilograms	2019-M07-Exported quantity, Kilograms	
+"World"	17265363	16421359	17153310	19507625	15959809	Kilograms	16624517	Kilograms	19955893	16575632	15574347	17567930	20135146	21556675	Kilograms	21781073	18129483	17560926	Kilograms	22016341	Kilograms	22846623	Kilograms	16988457	15884034	21495833	
+"Germany"	5637880	4576263	3585683	5609267	1717851	Kilograms	3916999	Kilograms	5588187	5165771	3595819	4497002	5245142	7339152	Kilograms	7659200	5982635	5468441	Kilograms	8754375	Kilograms	9477520	Kilograms	5789862	5405275	6110266	
+"France"	5409892	5043462	5796088	5365523	5755822	Kilograms	6409871	Kilograms	6757762	5771495	5379110	6308962	7077582	7251267	Kilograms	7095423	5682746	4864996	Kilograms	5488399	Kilograms	5328878	Kilograms	4514966	4649679	5197156	
+"Cyprus"	250139	7659	832319	293606	247673	Kilograms	277948	Kilograms	225965	40052	608252	535	1051	16725	Kilograms	752782	45244	59697	Kilograms	24233	Kilograms	23571	Kilograms	17716	500669	3792720	
+"Belgium"	2978374	3689212	3042785	3776863	3162343	Kilograms	2624188	Kilograms	3012238	1978839	2283492	2516160	3452820	3198746	Kilograms	3068631	3009074	2624513	Kilograms	3162717	Kilograms	3243788	Kilograms	3524354	2304416	2306719	
+"Japan"	219950	150000	225000	825000	475000	Kilograms	275000	Kilograms	198750	150000	25000	150600	175003	25000	Kilograms	646850	260650	100000	Kilograms	341775	Kilograms	903750	Kilograms	212500	540000	542000	
+"Indonesia"	0	61318	210782	233058	233556	Kilograms	0		0	0	315757	153545	94386	0		0	151394	93583	Kilograms	196923	Kilograms	115574	Kilograms	151394	165427	511318	
+"Singapore"	362000	187000	233720	392330	532000	Kilograms	152320	Kilograms	214500	340000	215250	247000	174225	322250	Kilograms	426250	128100	348973	Kilograms	220000	Kilograms	328392	Kilograms	492000	68000	495000	
+"United Kingdom"	791989	598593	831745	869728	1002336	Kilograms	881029	Kilograms	1234077	1115922	1313704	1382767	1383372	868293	Kilograms	353530	393436	1487768	Kilograms	792838	Kilograms	678937	Kilograms	113164	1430	418883	
+"Italy"	161704	215998	160146	71334	128588	Kilograms	68386	Kilograms	376901	217293	141583	281568	610446	649706	Kilograms	246189	391972	646104	Kilograms	679230	Kilograms	633756	Kilograms	373475	509352	404826	
+"China"	219520	68820	17710	95350	83510	Kilograms	32400	Kilograms	129640	83100	49245	59400	146740	216320	Kilograms	185530	87750	40720	Kilograms	173600	Kilograms	127590	Kilograms	99300	51500	287495	
+"Spain"	91075	251818	256383	134402	271093	Kilograms	269996	Kilograms	341277	131488	154703	116007	268265	352018	Kilograms	149745	198377	229988	Kilograms	299475	Kilograms	308664	Kilograms	353938	276061	219579	
+"United Arab Emirates"	0	0	0	0	0		0		0	0	0	0	522	929	Kilograms	0	0	0		0		0		0	0	200000	
+"Syrian Arab Republic"	50000	0	50000	75000	199000	Kilograms	50000	Kilograms	0	0	0	2400	0	0		100000	50000	64900	Kilograms	149000	Kilograms	100000	Kilograms	75000	0	197000	
+"Poland"	316374	418141	374205	402535	579431	Kilograms	204276	Kilograms	442062	510099	383225	413014	324534	383302	Kilograms	184216	562160	334072	Kilograms	210141	Kilograms	439284	Kilograms	268094	380165	115880	
+"Ship stores and bunkers"	0	801	763	270	2381	Kilograms	10031	Kilograms	6948	4878	6114	3697	3648	1570	Kilograms	4679	2516	2432	Kilograms	4565	Kilograms	30971	Kilograms	106251	106033	98612	
+"Austria"	49221	237665	136409	132363	105417	Kilograms	57214	Kilograms	109780	61609	118054	217351	194008	67404	Kilograms	51440	112535	77570	Kilograms	123907	Kilograms	44501	Kilograms	147423	73379	93137	
+"Greece"	196067	173905	169208	95947	77477	Kilograms	164504	Kilograms	165604	157497	169561	105909	128893	189802	Kilograms	169753	104090	211941	Kilograms	171011	Kilograms	294536	Kilograms	231455	228742	82755	
+"Denmark"	10142	8581	141191	87293	455046	Kilograms	501145	Kilograms	279519	134766	90709	298186	172241	134790	Kilograms	244939	168297	19156	Kilograms	230166	Kilograms	120706	Kilograms	16470	56184	77572	
+"Portugal"	6604	18327	5957	7532	18079	Kilograms	21972	Kilograms	39141	202327	71677	4529	82900	5984	Kilograms	39912	10015	27060	Kilograms	65872	Kilograms	71	Kilograms	24096	4803	65839	
+"Romania"	64327	37446	27736	43332	6821	Kilograms	11647	Kilograms	283	24662	16789	32857	92018	17548	Kilograms	7785	2010	1292	Kilograms	20196	Kilograms	66043	Kilograms	332	24328	47198	
+"Lebanon"	890	95500	119830	50000	150000	Kilograms	0		0	0	50000	0	95000	53590	Kilograms	50000	94600	100000	Kilograms	250000	Kilograms	60500	Kilograms	25000	48800	28030	
+"Sweden"	47293	42819	75679	82772	155874	Kilograms	47762	Kilograms	56225	25763	23484	47324	32570	30539	Kilograms	20119	40916	40622	Kilograms	28616	Kilograms	64895	Kilograms	32308	37804	25813	
+"Hungary"	55901	94044	50364	51232	73949	Kilograms	68895	Kilograms	91828	109192	49613	75222	46254	106117	Kilograms	51251	70051	57625	Kilograms	63756	Kilograms	31170	Kilograms	51373	55829	24365	
+"Taipei, Chinese"	9000	85500	105770	114940	108020	Kilograms	136060	Kilograms	52200	7700	9000	8985	37640	22500	Kilograms	22500	40250	0		116460	Kilograms	27020	Kilograms	49440	102320	20000	
+"Lithuania"	220	179	1142	21880	4373	Kilograms	22608	Kilograms	24173	23576	21569	71	1069	1626	Kilograms	23887	340	35533	Kilograms	23698	Kilograms	2	Kilograms	13881	1044	18858	
+"Türkiye"	41600	3200	30250	18750	1926	Kilograms	60750	Kilograms	65369	58268	18050	0	22025	19175	Kilograms	1000	18500	2030	Kilograms	21750	Kilograms	21000	Kilograms	800	34525	16050	
+"Bulgaria"	35726	31102	13998	42353	13572	Kilograms	56787	Kilograms	21011	28098	115329	68835	100316	75150	Kilograms	60372	26922	113574	Kilograms	36254	Kilograms	46769	Kilograms	22089	30740	13375	
+"Iraq"	0	717	350	715	518	Kilograms	907	Kilograms	593	225	118	1090	1364	3466	Kilograms	2464	4728	30893	Kilograms	11989	Kilograms	2125	Kilograms	9432	3204	12932	
+"Israel"	396	0	15276	1800	4160	Kilograms	0		0	0	0	0	3000	0		0	0	0		0		1184	Kilograms	0	10448	10000	
+"Korea, Republic of"	2160	0	4600	2620	0		3700	Kilograms	2890	6880	1000	0	5380	1000	Kilograms	2880	9864	1824	Kilograms	8640	Kilograms	7740	Kilograms	12366	0	8554	
+"Mexico"	0	0	2560	0	4032	Kilograms	0		0	0	0	0	0	0		0	0	0		10440	Kilograms	0		0	0	8000	
+"Mali"	3134	3204	3100	5256	1212	Kilograms	0		3606	2500	2765	4390	2800	2070	Kilograms	3153	1236	4306	Kilograms	4748	Kilograms	1062	Kilograms	5855	1970	7379	
+"Philippines"	0	6400	0	0	6400	Kilograms	0		6400	0	0	6400	0	0		0	0	6400	Kilograms	0		0		0	6400	4368	
+"Viet Nam"	0	0	784	2952	0		17424	Kilograms	6544	5760	0	0	392	0		0	0	0		2952	Kilograms	786	Kilograms	17524	3984	3968	
+"Suriname"	2050	4918	5480	2750	1440	Kilograms	4012	Kilograms	5998	1605	2480	5892	1312	4960	Kilograms	2448	3784	3340	Kilograms	3520	Kilograms	2280	Kilograms	3296	6988	3600	
+"Bonaire, Sint Eustatius and Saba"	810	0	0	0	0		0		0	0	0	0	0	0		0	1166	3111	Kilograms	4790	Kilograms	1848	Kilograms	3047	2258	3412	
+"Burkina Faso"	0	150	0	120	0		0		120	0	0	150	0	69	Kilograms	0	90	0		0		325	Kilograms	0	0	3150	
+"Aruba"	2059	3374	3721	7063	5246	Kilograms	7117	Kilograms	2810	1383	4524	3441	6322	4534	Kilograms	2555	6090	1699	Kilograms	7015	Kilograms	1980	Kilograms	5298	5536	2939	
+"Central African Republic"	2390	0	0	0	3600	Kilograms	351	Kilograms	1200	1501	1050	1100	700	1800	Kilograms	1352	1200	1500	Kilograms	2700	Kilograms	0		2250	0	2750	
+"Slovakia"	21417	758	3681	451	3719	Kilograms	4199	Kilograms	1070	856	4549	1194	765	5230	Kilograms	1082	471	2071	Kilograms	1885	Kilograms	27	Kilograms	1923	1904	2345	
+"Malta"	1633	3524	3821	1314	9549	Kilograms	761	Kilograms	456	742	6324	844	360	2874	Kilograms	364	0	0	Mixed	810	Kilograms	5025	Kilograms	1769	106	1614	
+"Slovenia"	1929	3862	110	962	926	Kilograms	24096	Kilograms	457	42	2326	35	980	548	Kilograms	55	108	565	Kilograms	380	Kilograms	463	Kilograms	462	21387	1085	
+"Congo"	2000	1110	450	5600	1300	Kilograms	650	Kilograms	1402	1102	701	1351	800	2700	Kilograms	0	950	1000	Kilograms	1002	Kilograms	0		0	0	1050	
+"Somalia"	255	364	220	454	100	Kilograms	224	Kilograms	464	0	130	248	358	60	Kilograms	459	946	183	Kilograms	993	Kilograms	0		250	2667	980	
+"Ghana"	0	0	4920	0	0		0		760	0	4005	0	7001	900	Kilograms	0	0	0		120	Kilograms	1848	Kilograms	0	0	916	
+"Malaysia"	12000	0	0	13192	0		0		10384	0	0	0	784	13524	Kilograms	0	8000	392	Kilograms	376	Kilograms	2744	Kilograms	8392	784	896	
+"Afghanistan"	1750	2970	186	450	1148	Kilograms	5000	Kilograms	0	93	3763	5789	827	150	Kilograms	639	0	1650	Kilograms	5805	Kilograms	3394	Kilograms	142	2992	734	
+"Congo, Democratic Republic of the"	0	1050	0	0	580	Kilograms	0		200	100	0	0	100	0		0	0	700	Kilograms	0		0		700	0	700	
+"Ireland"	20803	999	44789	46267	99388	Kilograms	22059	Kilograms	900	8973	16674	8822	18445	908	Kilograms	1092	420	2122	Kilograms	109860	Kilograms	92209	Kilograms	3125	890	659	
+"Sierra Leone"	0	0	0	0	0		740	Kilograms	200	0	0	3400	0	0		0	5300	118	Kilograms	0		0		970	0	588	
+"Gambia"	294	1180	3745	591	550	Kilograms	0		1700	300	2130	1050	1300	2950	Kilograms	1050	8534	1000	Kilograms	1990	Kilograms	430	Kilograms	490	150	532	
+"Curaçao"	1384	2800	15766	3151	5397	Kilograms	10226	Kilograms	7900	2719	2550	6663	3800	6504	Kilograms	2690	800	3858	Kilograms	4849	Kilograms	2800	Kilograms	3600	680	400	
+"Latvia"	381	641	126	110	0	Mixed	507	Kilograms	47860	40826	21	159	1342	22245	Kilograms	842	101375	1290	Kilograms	510	Kilograms	0	Mixed	536	873	345	
+"Gibraltar"	0	140	0	460	60	Kilograms	350	Kilograms	290	0	100	0	290	111	Kilograms	0	0	321	Kilograms	180	Kilograms	390	Kilograms	0	0	310	
+"Croatia"	411	1322	309	535	23127	Kilograms	300	Kilograms	453	293	218	228	312	11013	Kilograms	776	261	332	Kilograms	3261	Kilograms	341	Kilograms	230	235	296	
+"Equatorial Guinea"	0	1760	0	120	551	Kilograms	0		2010	0	606	480	480	1755	Kilograms	403	410	1432	Kilograms	100	Kilograms	1726	Kilograms	345	0	190	
+"Liberia"	0	310	0	0	0		0		165	0	250	0	0	0		250	0	0		0		0		300	0	165	
+"Panama"	0	705	280	702	1800	Kilograms	0		0	1002	0	0	0	0		2514	0	170	Kilograms	170	Kilograms	0		0	0	120	
+"Luxembourg"	2533	42	102	92	133	Kilograms	610	Kilograms	157	140	109	167	11850	11859	Kilograms	66	11820	395	Kilograms	437	Kilograms	147	Kilograms	848	129	117	
+"Czech Republic"	24109	70	14492	20930	14425	Kilograms	15642	Kilograms	91024	57032	70848	64	5	0	Mixed	15052	25226	0		23996	Kilograms	1	Kilograms	51	23133	53	
+"Qatar"	0	0	0	0	22000	Kilograms	0		0	0	30	181	23601	158	Kilograms	182	250	404	Kilograms	302	Kilograms	120	Kilograms	22089	119	51	
+"Estonia"	286	1833	48	331	574	Kilograms	426	Kilograms	489	75	34	114	214	525	Kilograms	43	37	34	Kilograms	24	Kilograms	21	Kilograms	24	26	21	
+"Falkland Islands (Malvinas)"	990	950	400	613	111	Kilograms	0		791	740	1217	700	0	100	Kilograms	560	0	105	Kilograms	0		2000	Kilograms	0	0	0	
+"Finland"	61	48	13	47	17	Kilograms	0	Mixed	905	68	43	725	0	12	Kilograms	109	0	93	Kilograms	0	Mixed	13	Kilograms	5001	13	No Quantity	
+"Eritrea"	0	300	0	0	0		0		0	0	0	0	0	0		250	0	600	Kilograms	0		0		0	751	0	
+"Georgia"	0	0	22968	25000	0		0		0	0	0	0	0	0		3750	0	0		0		0		0	11600	0	
+"Dominican Republic"	0	0	0	0	13440	Kilograms	0		0	13440	0	0	0	0		0	13440	0		0		0		13748	0	0	
+"Cuba"	0	0	4960	0	0		3600	Kilograms	3600	0	0	2560	3000	0		3000	0	2560	Kilograms	0		0		0	0	0	
+"Angola"	278	0	0	0	0		0		0	0	0	0	0	0		0	0	0		0		0		0	0	0	
+"Antigua and Barbuda"	0	0	0	0	392	Kilograms	0		0	0	0	784	0	0		0	0	392	Kilograms	392	Kilograms	0		0	0	0	
+"Australia"	0	22500	22500	0	0		0		0	3840	0	0	0	0		0	0	0		0		0		0	0	0	
+"Bangladesh"	0	0	1568	0	0		0		1390	0	0	0	0	0		720	0	0		0		0		0	500	0	
+"Bosnia and Herzegovina"	0	0	0	0	0		0		0	0	0	0	0	0		0	0	0		108	Kilograms	90	Kilograms	90	3000	0	
+"Chad"	0	0	0	850	0		0		0	350	1550	0	0	0		1700	0	0		0		1700	Kilograms	0	0	0	
+"Colombia"	0	0	0	0	0		0		0	0	0	704	0	0		0	0	0		0		0		0	0	0	
+"Comoros"	0	0	0	0	0		0		0	0	0	0	0	0		2106	0	0		1000	Kilograms	0		1684	0	0	
+"Cambodia"	0	784	3252	0	392	Kilograms	0		0	0	0	0	0	0		392	0	0		0		0		0	392	0	
+"Canada"	0	0	0	0	300	Kilograms	0		0	0	0	0	0	0		0	0	0		0		0		0	0	0	
+"Cabo Verde"	13464	504	0	270	0		13464	Kilograms	0	0	0	340	1008	0		13464	0	0		13784	Kilograms	0		0	13714	0	
+"Maldives"	2080	0	15000	0	0		0		25000	0	0	0	0	0		0	0	25815	Kilograms	0		0		0	0	0	
+"Libya, State of"	0	0	0	0	0		0		0	0	0	0	0	18000	Kilograms	18000	0	0		0		576	Kilograms	0	0	0	
+"Mauritania"	1650	1650	130	2972	80	Kilograms	6001	Kilograms	2001	0	1500	0	0	900	Kilograms	0	2356	0		0		4600	Kilograms	0	0	0	
+"Mauritius"	0	0	0	0	19320	Kilograms	0		0	0	0	0	0	0		0	19320	0		0		0		0	0	0	
+"Montenegro"	0	0	0	0	0		0		0	0	0	0	0	0		0	0	0		0		0		1610	0	0	
+"Morocco"	22500	36859	125000	22500	0		0		0	0	0	0	0	0		0	184950	59975	Kilograms	0		39950	Kilograms	80000	64000	0	
+"Oman"	0	0	0	0	0		0		620	0	0	0	0	0		0	0	0		0		0		99	0	0	
+"Iran, Islamic Republic of"	0	100000	100000	225000	0		0		250000	0	60000	440000	0	0		0	0	0		0		0		0	0	0	
+"Guinea"	0	180	0	780	524	Kilograms	0		0	0	460	0	975	1130	Kilograms	0	0	0		470	Kilograms	1370	Kilograms	0	0	0	
+"Guyana"	384	0	0	784	0		0		0	100	0	0	0	0		0	0	0		122	Kilograms	0		0	0	0	
+"Haiti"	0	0	0	200	0		0		100	0	300	0	60	70	Kilograms	130	0	120	Kilograms	0		0		0	0	0	
+"Hong Kong, China"	19000	0	11250	368	8128	Kilograms	840	Kilograms	2288	0	22128	0	784	1568	Kilograms	3136	0	0		14386	Kilograms	19000	Kilograms	0	8064	0	
+"Côte d'Ivoire"	0	0	0	0	0		0		0	0	172	0	245	0		0	0	0		0		0		380	0	0	
+"Jamaica"	0	0	0	0	0		0		0	0	0	0	0	0		0	0	0		0		16800	Kilograms	0	0	0	
+"Kuwait"	0	25000	25000	25000	25000	Kilograms	0		0	0	0	0	0	0		0	0	0		0		0		0	0	0	
+"Lao People's Democratic Republic"	0	0	0	0	0		0		0	0	180	0	0	0		0	0	320	Kilograms	0		0		0	0	0	
+"Jordan"	0	25000	0	25000	25000	Kilograms	25000	Kilograms	0	0	0	0	0	0		0	0	0		25000	Kilograms	0		0	0	0	
+"Kenya"	0	0	0	0	0		0		0	0	0	0	200	0		0	0	0		0		0		0	0	0	
+"Rwanda"	0	0	0	0	0		0		0	0	0	0	0	105	Kilograms	0	0	0		0		0		0	0	0	
+"Saint Helena"	0	0	0	0	0		0		0	100	0	0	0	110	Kilograms	0	0	0		0		0		0	0	0	
+"Saudi Arabia"	26000	25000	25000	53002	29380	Kilograms	26000	Kilograms	1200	8080	51600	31280	28000	25000	Kilograms	49850	0	25053	Kilograms	25000	Kilograms	75000	Kilograms	25000	25000	0	
+"Senegal"	0	0	0	0	0		0		0	0	0	0	0	2500	Kilograms	0	3025	0		0		0		3960	0	0	
+"Serbia"	20950	0	0	41975	0		200	Kilograms	0	21220	0	20625	21062	240	Kilograms	350	0	0		0		0		0	0	0	
+"Sint Maarten (Dutch part)"	0	0	0	0	0		0		0	0	0	0	0	200	Kilograms	200	0	0		0		0		0	0	0	
+"New Zealand"	0	0	0	0	0		0		0	0	0	0	0	0		42	0	0		0		0		0	0	0	
+"Niger"	0	0	0	0	0		0		0	0	0	0	0	500	Kilograms	0	0	0		0		0		0	0	0	
+"Nigeria"	819	0	2260	1703	0		800	Kilograms	0	541	681	0	757	1954	Kilograms	180	1712	0		0		0		0	550	0	
+"Norway"	984	0	22000	2064	22448	Kilograms	80000	Kilograms	0	0	40000	20000	0	0		0	238	0		0		717	Kilograms	0	1701	0	
+"South Africa"	0	12800	0	19520	0		0		0	0	0	3200	12800	0		0	12800	4902	Kilograms	0		0		0	0	0	
+"Switzerland"	0	0	0	0	0		0		0	0	0	0	0	0		50	1532	0		0		0		0	50	0	
+"Sudan"	0	0	0	0	0		0		0	0	0	0	1000	1650	Kilograms	0	0	0		0		0		0	0	0	
+"Thailand"	46000	22875	0	46000	23000	Kilograms	23000	Kilograms	23000	45400	22400	0	0	22400	Kilograms	0	0	0		0		0		0	0	0	
+"Tunisia"	0	0	128725	0	0		0		0	0	0	0	0	0		0	0	0		0		0		0	0	0	
+"Uganda"	0	0	1239	0	0		0		0	0	0	1042	0	0		0	2465	0		100	Kilograms	0		0	0	0	
+"Ukraine"	0	0	0	0	0		0		0	0	0	0	0	0		0	0	0		0		0		0	1250	0	
+"Macedonia, North"	0	0	0	0	0		0		0	1000	0	0	0	0		0	0	0		0		0		0	0	0	
+"Egypt"	0	0	15934	0	0		0		12000	0	18000	0	6000	24000	Kilograms	0	6000	12000	Kilograms	36000	Kilograms	0		24000	0	0	
+"Special categories"	0	5337	2310	1060	3318	Kilograms	2064	Kilograms	1052	1734	1654	712	1683	4725	Kilograms	1920	0	0		0		0		0	0	0	
+"United States of America"	0	0	0	1200	15865	Kilograms	2400	Kilograms	0	2400	0	0	0	0		22560	53934	305287	Kilograms	37040	Kilograms	35840	Kilograms	20860	0	0	

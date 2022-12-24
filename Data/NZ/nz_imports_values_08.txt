@@ -1,0 +1,12 @@
+﻿Exporters	Imported value in 2021-M02	Imported value in 2021-M03	Imported value in 2021-M04	Imported value in 2021-M05	Imported value in 2021-M06	Imported value in 2021-M07	Imported value in 2021-M08	Imported value in 2021-M09	Imported value in 2021-M10	Imported value in 2021-M11	Imported value in 2021-M12	Imported value in 2022-M01	Imported value in 2022-M02	Imported value in 2022-M03	Imported value in 2022-M04	Imported value in 2022-M05	Imported value in 2022-M06	Imported value in 2022-M07	Imported value in 2022-M08	Imported value in 2022-M09	
+"World"	42	300	280	322	510	258	248	278	175	226	314	113	365	156	296	897	533	184	1074	648	
+"New Zealand"	0	87	59	59	196	0	0	202	0	0	0	0	0	0	0	674	0	0	260	544	
+"Australia"	24	116	87	139	259	141	237	0	7	117	29	32	32	34	26	7	40	0	7	53	
+"Denmark"	18	94	25	87	53	21	11	75	114	0	90	80	25	93	121	73	52	48	0	47	
+"India"	0	0	0	19	0	93	0	0	46	107	80	0	307	28	1	141	146	137	319	4	
+"United States of America"	0	0	0	16	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	
+"China"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+"Fiji"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	
+"France"	0	0	108	0	0	0	0	0	0	0	114	0	0	0	0	0	0	0	0	0	
+"Ireland"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	146	0	293	0	481	0	
+"Lithuania"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
