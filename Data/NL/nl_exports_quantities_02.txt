@@ -1,116 +1,117 @@
-﻿Importers	2011-M08-Exported quantity	2011-M08-Unit	2011-M09-Exported quantity, Tons	2011-M10-Exported quantity, Tons	2011-M11-Exported quantity	2011-M11-Unit	2011-M12-Exported quantity, Tons	2012-M01-Exported quantity	2012-M01-Unit	2012-M02-Exported quantity, Tons	2012-M03-Exported quantity, Tons	2012-M04-Exported quantity	2012-M04-Unit	2012-M05-Exported quantity	2012-M05-Unit	2012-M06-Exported quantity	2012-M06-Unit	2012-M07-Exported quantity, Tons	2012-M08-Exported quantity	2012-M08-Unit	2012-M09-Exported quantity	2012-M09-Unit	2012-M10-Exported quantity	2012-M10-Unit	2012-M11-Exported quantity, Tons	2012-M12-Exported quantity, Tons	2013-M01-Exported quantity, Tons	2013-M02-Exported quantity	2013-M02-Unit	2013-M03-Exported quantity, Tons	
-"World"	8883	Tons	11068	9949	15398	Tons	16195	13041	Tons	13059	12393	11433	Tons	17058	Tons	13798	Tons	13103	12705	Tons	13128	Tons	14380	Tons	15682	8837	3951	9763	Tons	8072	
-"Germany"	1844	Tons	2446	2034	2885	Tons	3069	3109	Tons	2686	3133	1950	Tons	2644	Tons	1953	Tons	2474	2687	Tons	2170	Tons	2911	Tons	3226	1692	497	1129	Tons	3858	
-"France"	2439	Tons	3398	2334	3696	Tons	5238	4495	Tons	4273	3456	4131	Tons	5598	Tons	3773	Tons	3863	3956	Tons	4858	Tons	4909	Tons	5965	3085	1402	4062	Tons	2025	
-"Singapore"	225	Tons	475	582	450	Tons	775	404	Tons	250	450	400	Tons	531	Tons	476	Tons	513	500	Tons	380	Tons	631	Tons	572	200	678	100	Tons	750	
-"Belgium"	3146	Tons	3493	3255	3971	Tons	4093	3056	Tons	3050	3145	1935	Tons	4627	Tons	4031	Tons	2311	3222	Tons	3293	Tons	3381	Tons	2813	2166	287	2822	Tons	514	
-"Special categories"	0		0	0	0		0	10	Tons	47	19	16	Tons	17	Tons	19	Tons	16	13	Tons	7	Tons	50	Tons	21	22	212	201	Tons	157	
-"Morocco"	0	Tons	0	271	0		0	0		0	0	292	Tons	250	Tons	250	Tons	21	0		68	Tons	0		0	0	0	100	Tons	100	
-"Lebanon"	30	Tons	27	102	21	Tons	76	56	Tons	71	73	3	Tons	128	Tons	21	Tons	22	26	Tons	52	Tons	28	Tons	2	3	70	23	Tons	94	
-"Greece"	109	Tons	115	34	88	Tons	72	76	Tons	87	113	116	Tons	111	Tons	130	Tons	179	89	Tons	73	Tons	101	Tons	131	47	87	120	Tons	93	
-"Indonesia"	14	Tons	90	126	0		61	88	Tons	176	195	178	Tons	178	Tons	45	Tons	0	0		47	Tons	63	Tons	78	94	91	150	Tons	77	
-"Romania"	0		0	40	40	Tons	20	140	Tons	99	40	80	Tons	58	Tons	0		58	0	Tons	21	Tons	0		0	0	0	0		43	
-"Taipei, Chinese"	5	Tons	0	20	0		25	99	Tons	74	99	25	Tons	25	Tons	50	Tons	86	50	Tons	25	Tons	0		7	0	0	25	Tons	40	
-"Austria"	51	Tons	2	5	272	Tons	208	113	Tons	294	157	120	Tons	188	Tons	218	Tons	176	124	Tons	70	Tons	154	Tons	168	50	54	67	Tons	40	
-"Saudi Arabia"	25	Tons	25	0	0		27	25	Tons	25	2	121	Tons	53	Tons	75	Tons	28	2	Tons	69	Tons	25	Tons	5	15	50	4	Tons	26	
-"Syrian Arab Republic"	43	Tons	25	25	218	Tons	94	154	Tons	0	0	0		24	Tons	123	Tons	48	0		0		0		0	24	0	0		24	
-"Spain"	121	Tons	94	96	93	Tons	75	101	Tons	178	220	108	Tons	196	Tons	177	Tons	97	95	Tons	66	Tons	101	Tons	52	47	5	72	Tons	23	
-"Iraq"	0		0	0	0		0	0		0	0	0		0		0		3	0		0		0		3	25	0	0	Tons	22	
-"Lithuania"	0		0	0	0		0	0		0	0	0		0		0		40	40	Tons	40	Tons	40	Tons	30	10	0	0		22	
-"Russian Federation"	0		0	0	0		0	0		0	0	0		27	Tons	106	Tons	0	7	Tons	0		7	Tons	0	0	11	7	Tons	20	
-"Uzbekistan"	0		20	20	0		20	0	Tons	20	20	0		20	Tons	0		20	0		0		0		20	20	0	19	Tons	20	
-"China"	25	Tons	18	25	0		0	0		19	0	39	Tons	19	Tons	29	Tons	26	25	Tons	0		0		11	19	27	0		19	
-"Chile"	0		0	0	25	Tons	0	0		0	0	0		0		0		0	0		0		17	Tons	0	0	0	0		18	
-"Türkiye"	1	Tons	37	33	2552	Tons	542	2	Tons	17	85	347	Tons	418	Tons	57	Tons	54	19	Tons	20	Tons	28	Tons	28	10	19	7	Tons	18	
-"Aruba"	3	Tons	5	4	5	Tons	22	3	Tons	2	3	1	Tons	8	Tons	2	Tons	16	5	Tons	1	Tons	3	Tons	5	3	11	6	Tons	12	
-"Viet Nam"	0		0	1	0		0	0		0	0	0		0		0		3	0		0		0		0	0	0	2	Tons	11	
-"Guinea"	0		0	0	1	Tons	0	0		0	0	0		0		0	Tons	0	0		0		0		0	0	0	0	Tons	10	
-"Ukraine"	0		6	0	2	Tons	6	2	Tons	0	8	2	Tons	2	Tons	3	Tons	0	2	Tons	2	Tons	0		9	2	0	1	Tons	8	
-"Malaysia"	4	Tons	1	0	0		2	7	Tons	0	0	5	Tons	1	Tons	2	Tons	1	1	Tons	1	Tons	5	Tons	6	2	11	15	Tons	6	
-"Ghana"	0		0	4	1	Tons	4	1	Tons	1	5	0		1	Tons	6	Tons	0	0		7	Tons	0	Tons	2	0	1	0		5	
-"Poland"	0	Tons	7	4	3	Tons	4	189	Tons	193	46	4	Tons	4	Tons	1	Tons	6	27	Tons	3	Tons	6	Tons	96	154	0	25	Tons	3	
-"Liberia"	0		0	2	2	Tons	1	0	Tons	4	1	0		2	Tons	0		1	0	Tons	2	Tons	0		4	0	2	2	Tons	2	
-"Barbados"	0		0	0	2	Tons	3	0		0	0	0		0		0		0	0		0		0		0	0	2	2	Tons	2	
-"Sudan (before 2012)"	3	Tons	0	1	1	Tons	2	0	Tons	0	2	1	Tons	1	Tons	3	Tons	1	0		1	Tons	1	Tons	2	2	0	2	Tons	2	
-"United Kingdom"	151	Tons	133	149	136	Tons	190	82	Tons	479	558	145	Tons	481	Tons	422	Tons	476	264	Tons	142	Tons	167	Tons	269	210	22	83	Tons	1	
-"Ship stores and bunkers"	4	Tons	3	2	1	Tons	0	0	Tons	0	0	19	Tons	18	Tons	17	Tons	51	54	Tons	48	Tons	55	Tons	26	2	2	0		1	
-"Chad"	2	Tons	2	1	3	Tons	0	2	Tons	0	0	0		0		0		1	0		0		1	Tons	1	0	1	2	Tons	1	
-"Congo"	0		5	4	5	Tons	13	0	Tons	25	0	0		0		25	Tons	0	3	Tons	26	Tons	19	Tons	26	2	0	28	Tons	1	
-"Congo, Democratic Republic of the"	4	Tons	26	26	1	Tons	0	1	Tons	0	0	1	Tons	3	Tons	2	Tons	0	0		1	Tons	1	Tons	1	1	0	1	Tons	1	
-"Italy"	198	Tons	218	334	649	Tons	631	231	Tons	275	188	148	Tons	163	Tons	230	Tons	211	227	Tons	304	Tons	720	Tons	754	363	27	471	Tons	1	
-"Jordan"	35	Tons	15	7	0		2	0		13	0	38	Tons	50	Tons	0		10	13	Tons	15	Tons	0		32	0	1	1	Tons	1	
-"Portugal"	2	Tons	0	2	0		0	1	Tons	0	0	1	Tons	1	Tons	2	Tons	1	2	Tons	2	Tons	1	Tons	1	No Quantity	0	1	Tons	1	
-"Timor-Leste"	0		0	0	0		0	1	Tons	0	0	0		0	Tons	0		0	0		0		0		0	0	0	0		0	
-"Sao Tome and Principe"	0		0	0	0		0	0		1	0	0		0		0	Tons	0	0		0		0		0	0	0	0		0	
-"Niger"	0		0	1	0		0	0		0	0	0		0		0		0	0	Tons	0		0		0	0	1	1	Tons	0	
-"Nigeria"	0		0	2	0		0	2	Tons	0	0	0		0		0		0	1	Tons	0		0		2	0	0	1	Tons	0	
-"Norway"	1	Tons	1	1	0		324	182	Tons	0	0	0	Tons	1	Tons	0		65	216	Tons	173	Tons	194	Tons	22	0	0	0		0	
-"Philippines"	0		0	0	0		0	0		0	0	0	Tons	3	Tons	0		0	0		0		0	Tons	0	4	0	0		0	
-"Maldives"	0		0	0	0		0	0		0	0	0		0	Tons	0	Tons	0	0		0		0		0	0	0	0		0	
-"Malta"	1	Tons	1	1	0		0	0		0	1	0	Tons	1	Tons	2	Tons	3	0		2	Tons	1	Tons	1	0	5	0		0	
-"Mauritania"	0		0	0	0		1	0		0	1	0		0		0	Tons	1	0		0		0		0	0	0	0		0	
-"Mauritius"	13	Tons	0	0	0		0	0		0	0	10	Tons	0		0		0	0		0		0		0	0	0	0		0	
-"Mexico"	0		0	0	0		0	0		0	0	0		2	Tons	0		0	0		0		0		11	0	0	0		0	
-"Netherlands Antilles"	3	Tons	4	1	6	Tons	2	1	Tons	3	0	2	Tons	1	Tons	1	Tons	2	3	Tons	0	Tons	1	Tons	0	2	0	1	Tons	0	
-"Kenya"	0		0	0	0		0	0		0	0	0		0		0		0	0		0		1	Tons	0	0	0	0		0	
-"Korea, Republic of"	20	Tons	3	20	2	Tons	42	0		0	0	80	Tons	66	Tons	0		0	0		1	Tons	0		0	1	0	0		0	
-"Kuwait"	0		0	75	0		0	0		0	0	19	Tons	0		0		69	25	Tons	25	Tons	1	Tons	25	0	0	0		0	
-"Ireland"	0	Tons	0	3	5	Tons	180	0	Tons	148	0	380	Tons	681	Tons	815	Tons	1256	0	Mixed	0	Mixed	0	Mixed	0	0	0	0	Mixed	0	
-"Israel"	1	Tons	3	1	1	Tons	0	0		0	0	0		0		5	Tons	0	0		0		0		7	0	0	0		0	
-"Iran, Islamic Republic of"	0		0	0	0		100	0		100	0	0		0		0		0	0		100	Tons	100	Tons	0	0	0	0		0	
-"Côte d'Ivoire"	0		0	0	0		0	0		0	0	0		0	Tons	0		0	0	Tons	0	Tons	0		0	0	0	1	Tons	0	
-"Japan"	150	Tons	100	0	1	Tons	1	0		0	100	275	Tons	150	Tons	425	Tons	635	0		417	Tons	125	Tons	0	0	0	0		0	
-"Latvia"	0		0	0	0		0	0		0	0	0		20	Tons	0		10	10	Tons	10	Tons	10	Tons	10	10	0	0		0	
-"Libya, State of"	0		0	0	0		0	0		18	0	17	Tons	22	Tons	18	Tons	0	0		0	Tons	0		18	0	No Quantity	0		0	
-"Luxembourg"	0	Mixed	No Quantity	0	0	Mixed	0	0	Mixed	0	No Quantity	0	Mixed	0	Mixed	22	Tons	22	44	Tons	44	Tons	0		37	0	0	0		0	
-"Cuba"	0		0	0	0		0	0		0	0	0		0		1	Tons	0	0		0		50	Tons	0	0	0	0		0	
-"Cyprus"	32	Tons	0	0	0		0	0		2	0	28	Tons	2	Tons	0		5	0		0		0		0	23	0	0		0	
-"Czech Republic"	0		1	0	0		0	0		41	0	23	Tons	18	Tons	0		0	0		0		0		1	22	0	0		0	
-"Denmark"	13	Tons	25	8	31	Tons	15	27	Tons	165	79	15	Tons	17	Tons	25	Tons	16	763	Tons	161	Tons	94	Tons	749	26	258	33	Tons	No Quantity	
-"Dominican Republic"	0		0	0	0		0	0		0	0	0		0		0		1	0		0		0		0	0	0	0		0	
-"Equatorial Guinea"	0		3	11	3	Tons	0	2	Tons	0	6	1	Tons	2	Tons	7	Tons	5	4	Tons	2	Tons	2	Tons	5	1	3	8	Tons	0	
-"Ethiopia"	0		0	1	0		0	0		0	0	0		0		1	Tons	0	0		0		2	Tons	0	0	1	0		0	
-"Eritrea"	0		0	0	0		0	0		0	0	0		0	Tons	0		0	0		0		0		0	0	0	0		0	
-"Estonia"	0		0	0	0		0	0		0	0	0		20	Tons	0		13	10	Tons	10	Tons	10	Tons	21	40	0	0		0	
-"Finland"	0	Tons	72	120	120	Tons	96	12	Tons	0	0	0		0		47	Tons	0	24	Tons	0		46	Tons	110	44	44	2	Tons	0	
-"Bulgaria"	0		0	0	2	Tons	3	0		0	0	24	Tons	2	Tons	0		0	2	Tons	0		27	Tons	44	3	0	3	Tons	0	
-"Cambodia"	1	Tons	0	0	1	Tons	4	0		1	0	0		0		0		0	0		0		0		0	0	1	0		0	
-"Canada"	1	Tons	0	0	0		0	0		0	0	0		0		0		0	0		0		0		0	0	0	0		0	
-"Cabo Verde"	0		14	14	0		0	0		14	0	0		0		0		0	14	Tons	0		14	Tons	0	0	0	0		0	
-"Afghanistan"	0	Tons	0	2	9	Tons	2	0		0	0	0	Tons	0		0	Tons	0	0		0		0		0	0	0	0		0	
-"Algeria"	0		0	22	0		0	0		0	0	0		0		0		0	0		0		0		0	0	0	0		0	
-"Angola"	0	Tons	0	0	1	Tons	0	3	Tons	0	0	0	Tons	0	Tons	0		2	1	Tons	1	Tons	2	Tons	1	0	0	4	Tons	0	
-"Azerbaijan"	25	Tons	0	0	0		23	20	Tons	22	0	1	Tons	22	Tons	21	Tons	0	0		19	Tons	0		0	20	0	0		0	
-"Argentina"	0		0	0	0		0	0		0	0	0		0		0		0	0		0		0		0	0	0	0		0	
-"Bahrain"	0		9	0	0		0	0		0	0	0		0		0		0	19	Tons	0		0		0	0	0	0		0	
-"Bangladesh"	0		1	0	0		0	0		0	0	0		1	Tons	0		0	0		0		0		0	1	0	0		0	
-"Gabon"	2	Tons	0	2	0		0	1	Tons	0	1	0		0		1	Tons	0	0		0		1	Tons	0	0	1	0		0	
-"Georgia"	0		0	17	1	Tons	0	0		0	0	7	Tons	0		0		0	0		0		0		0	0	0	0		0	
-"Gambia"	1	Tons	1	2	1	Tons	5	1	Tons	1	5	0	Tons	3	Tons	0		0	0		0		4	Tons	1	0	0	1	Tons	0	
-"Gibraltar"	0		0	0	0		0	0		0	0	0		0	Tons	0		0	0	Tons	0	Tons	0		0	0	0	0		0	
-"Comoros"	0		0	0	0		0	0		1	0	0		0		0		0	0		0		0		2	0	0	0		0	
-"Haiti"	0		0	0	0		1	1	Tons	0	1	0		0		2	Tons	0	0	Tons	1	Tons	0		0	0	0	0		0	
-"Hong Kong, China"	0		1	0	0	Tons	0	0		0	0	0	Tons	0		0		0	1	Tons	0		0	Tons	0	0	0	0	Tons	0	
-"Hungary"	76	Tons	84	84	63	Tons	84	63	Tons	63	84	21	Tons	22	Tons	0	Tons	43	54	Tons	45	Tons	78	Tons	80	15	0	45	Tons	0	
-"Tanzania, United Republic of"	0		0	0	0		0	0		0	0	2	Tons	0		0		0	0		0		0		0	0	0	0		0	
-"Venezuela, Bolivarian Republic of"	0		0	0	0		0	0		48	0	0		0		48	Tons	0	0		0		0		0	0	0	0		0	
-"Yemen"	0		0	0	0		0	0		0	0	0		80	Tons	0		68	0		0		0		0	0	0	0		0	
-"Macedonia, North"	0		0	0	0		2	0		0	0	0		0		0		2	0		0		0		0	0	0	0		0	
-"Egypt"	34	Tons	34	0	17	Tons	0	17	Tons	0	0	267	Tons	8	Tons	34	Tons	34	0		17	Tons	17	Tons	0	0	0	34	Tons	0	
-"Turkmenistan"	0		0	0	0		2	0		0	0	0		0		0		0	0		0		0		0	0	0	0		0	
-"Uganda"	0		0	0	0		0	0		1	0	0		0		0		1	2	Tons	0	Tons	0		0	0	0	1	Tons	0	
-"United States of America"	18	Tons	0	0	1	Tons	0	0		0	1	0		0		0		0	0		1	Tons	1	Tons	54	234	0	0		0	
-"United States Minor Outlying Islands"	2	Tons	0	0	0		0	0		0	0	0		0		0		0	0		0		0		0	0	0	0		0	
-"Burkina Faso"	0		0	0	0		0	0		0	0	0		0		0		0	0		0		0		1	0	0	0		0	
-"Suriname"	7	Tons	7	3	4	Tons	3	1	Tons	4	1	0		0		0	Mixed	11	1	Tons	4	Tons	5	Tons	2	1	0	0		0	
-"Sweden"	0		0	1	0		0	83	Tons	67	92	16	Tons	40	Tons	37	Tons	27	48	Tons	131	Tons	117	Tons	94	102	66	77	Tons	0	
-"Switzerland"	0		0	1	0		0	0		0	0	0		0		0		0	0		0	Tons	20	Tons	0	0	0	1	Tons	0	
-"Trinidad and Tobago"	0		0	0	0		0	0		0	0	0		0		0		0	0		0		0		0	0	0	0		0	
-"United Arab Emirates"	0		0	14	0		0	0		0	0	16	Tons	25	Tons	36	Tons	0	9	Tons	151	Tons	26	Tons	18	18	0	0		0	
-"Tunisia"	0		0	0	0		0	176	Tons	0	0	0		0		0		0	0		0		0		0	0	0	0		0	
-"Slovenia"	1	Tons	0	1	0		0	1	Tons	0	1	0		1	Tons	0	Tons	1	0	Tons	0		1	Tons	0	1	0	1	Tons	0	
-"Somalia"	0		0	0	0		0	0		0	0	0		1	Tons	1	Tons	0	0		0	Tons	0	Tons	0	0	0	0		0	
-"Slovakia"	0		22	0	0		23	0		0	0	0		0		0		0	0		0		0		0	0	1	2	Tons	0	
-"Serbia"	0		0	0	0		0	0		0	0	0		0		0		0	0		0		0		0	0	0	0	Tons	0	
-"Seychelles"	0		0	0	0		0	0		0	0	0		0		0		0	0		0		2	Tons	0	0	0	0		0	
-"Sierra Leone"	2	Tons	0	0	7	Tons	4	0		1	1	1	Tons	1	Tons	0	Tons	2	4	Tons	2	Tons	4	Tons	4	0	0	0		0	
+Importers	2011-M08-Exported quantity, Tons	2011-M09-Exported quantity, Tons	2011-M10-Exported quantity, Tons	2011-M11-Exported quantity, Tons	2011-M12-Exported quantity, Tons	2012-M01-Exported quantity, Tons	2012-M02-Exported quantity, Tons	2012-M03-Exported quantity, Tons	2012-M04-Exported quantity, Tons	2012-M05-Exported quantity, Tons	2012-M06-Exported quantity, Tons	2012-M07-Exported quantity, Tons	2012-M08-Exported quantity, Tons	2012-M09-Exported quantity, Tons	2012-M10-Exported quantity, Tons	2012-M11-Exported quantity, Tons	2012-M12-Exported quantity, Tons	2013-M01-Exported quantity, Tons	2013-M02-Exported quantity, Tons	2013-M03-Exported quantity, Tons	Unnamed: 31"
+""World"""	8883.0	11068	9949.0	15398.0	16195.0	13041.0	13059.0	12393	11433.0	17058.0	13798.0	13103.0	12705.0	13128.0	14380.0	15682.0	8837	3951	9763.0	8072	"
+""Germany"""	1844.0	2446	2034.0	2885.0	3069.0	3109.0	2686.0	3133	1950.0	2644.0	1953.0	2474.0	2687.0	2170.0	2911.0	3226.0	1692	497	1129.0	3858	"
+""France"""	2439.0	3398	2334.0	3696.0	5238.0	4495.0	4273.0	3456	4131.0	5598.0	3773.0	3863.0	3956.0	4858.0	4909.0	5965.0	3085	1402	4062.0	2025	"
+""Singapore"""	225.0	475	582.0	450.0	775.0	404.0	250.0	450	400.0	531.0	476.0	513.0	500.0	380.0	631.0	572.0	200	678	100.0	750	"
+""Belgium"""	3146.0	3493	3255.0	3971.0	4093.0	3056.0	3050.0	3145	1935.0	4627.0	4031.0	2311.0	3222.0	3293.0	3381.0	2813.0	2166	287	2822.0	514	"
+""Special categories"""	0.0	0	0.0	0.0	0.0	10.0	47.0	19	16.0	17.0	19.0	16.0	13.0	7.0	50.0	21.0	22	212	201.0	157	"
+""Morocco"""	0.0	0	271.0	0.0	0.0	0.0	0.0	0	292.0	250.0	250.0	21.0	0.0	68.0	0.0	0.0	0	0	100.0	100	"
+""Lebanon"""	30.0	27	102.0	21.0	76.0	56.0	71.0	73	3.0	128.0	21.0	22.0	26.0	52.0	28.0	2.0	3	70	23.0	94	"
+""Greece"""	109.0	115	34.0	88.0	72.0	76.0	87.0	113	116.0	111.0	130.0	179.0	89.0	73.0	101.0	131.0	47	87	120.0	93	"
+""Indonesia"""	14.0	90	126.0	0.0	61.0	88.0	176.0	195	178.0	178.0	45.0	0.0	0.0	47.0	63.0	78.0	94	91	150.0	77	"
+""Romania"""	0.0	0	40.0	40.0	20.0	140.0	99.0	40	80.0	58.0	0.0	58.0	0.0	21.0	0.0	0.0	0	0	0.0	43	"
+""Taipei, Chinese"""	5.0	0	20.0	0.0	25.0	99.0	74.0	99	25.0	25.0	50.0	86.0	50.0	25.0	0.0	7.0	0	0	25.0	40	"
+""Austria"""	51.0	2	5.0	272.0	208.0	113.0	294.0	157	120.0	188.0	218.0	176.0	124.0	70.0	154.0	168.0	50	54	67.0	40	"
+""Saudi Arabia"""	25.0	25	0.0	0.0	27.0	25.0	25.0	2	121.0	53.0	75.0	28.0	2.0	69.0	25.0	5.0	15	50	4.0	26	"
+""Syrian Arab Republic"""	43.0	25	25.0	218.0	94.0	154.0	0.0	0	0.0	24.0	123.0	48.0	0.0	0.0	0.0	0.0	24	0	0.0	24	"
+""Spain"""	121.0	94	96.0	93.0	75.0	101.0	178.0	220	108.0	196.0	177.0	97.0	95.0	66.0	101.0	52.0	47	5	72.0	23	"
+""Iraq"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	3.0	25	0	0.0	22	"
+""Lithuania"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	40.0	40.0	40.0	40.0	30.0	10	0	0.0	22	"
+""Russian Federation"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	27.0	106.0	0.0	7.0	0.0	7.0	0.0	0	11	7.0	20	"
+""Uzbekistan"""	0.0	20	20.0	0.0	20.0	0.0	20.0	20	0.0	20.0	0.0	20.0	0.0	0.0	0.0	20.0	20	0	19.0	20	"
+""China"""	25.0	18	25.0	0.0	0.0	0.0	19.0	0	39.0	19.0	29.0	26.0	25.0	0.0	0.0	11.0	19	27	0.0	19	"
+""Chile"""	0.0	0	0.0	25.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	17.0	0.0	0	0	0.0	18	"
+""Türkiye"""	1.0	37	33.0	2552.0	542.0	2.0	17.0	85	347.0	418.0	57.0	54.0	19.0	20.0	28.0	28.0	10	19	7.0	18	"
+""Aruba"""	3.0	5	4.0	5.0	22.0	3.0	2.0	3	1.0	8.0	2.0	16.0	5.0	1.0	3.0	5.0	3	11	6.0	12	"
+""Viet Nam"""	0.0	0	1.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	3.0	0.0	0.0	0.0	0.0	0	0	2.0	11	"
+""Guinea"""	0.0	0	0.0	1.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	10	"
+""Ukraine"""	0.0	6	0.0	2.0	6.0	2.0	0.0	8	2.0	2.0	3.0	0.0	2.0	2.0	0.0	9.0	2	0	1.0	8	"
+""Malaysia"""	4.0	1	0.0	0.0	2.0	7.0	0.0	0	5.0	1.0	2.0	1.0	1.0	1.0	5.0	6.0	2	11	15.0	6	"
+""Ghana"""	0.0	0	4.0	1.0	4.0	1.0	1.0	5	0.0	1.0	6.0	0.0	0.0	7.0	0.0	2.0	0	1	0.0	5	"
+""Poland"""	0.0	7	4.0	3.0	4.0	189.0	193.0	46	4.0	4.0	1.0	6.0	27.0	3.0	6.0	96.0	154	0	25.0	3	"
+""Liberia"""	0.0	0	2.0	2.0	1.0	0.0	4.0	1	0.0	2.0	0.0	1.0	0.0	2.0	0.0	4.0	0	2	2.0	2	"
+""Barbados"""	0.0	0	0.0	2.0	3.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	2	2.0	2	"
+""Sudan (before 2012)"""	3.0	0	1.0	1.0	2.0	0.0	0.0	2	1.0	1.0	3.0	1.0	0.0	1.0	1.0	2.0	2	0	2.0	2	"
+""United Kingdom"""	151.0	133	149.0	136.0	190.0	82.0	479.0	558	145.0	481.0	422.0	476.0	264.0	142.0	167.0	269.0	210	22	83.0	1	"
+""Ship stores and bunkers"""	4.0	3	2.0	1.0	0.0	0.0	0.0	0	19.0	18.0	17.0	51.0	54.0	48.0	55.0	26.0	2	2	0.0	1	"
+""Chad"""	2.0	2	1.0	3.0	0.0	2.0	0.0	0	0.0	0.0	0.0	1.0	0.0	0.0	1.0	1.0	0	1	2.0	1	"
+""Congo"""	0.0	5	4.0	5.0	13.0	0.0	25.0	0	0.0	0.0	25.0	0.0	3.0	26.0	19.0	26.0	2	0	28.0	1	"
+""Congo, Democratic Republic of the"""	4.0	26	26.0	1.0	0.0	1.0	0.0	0	1.0	3.0	2.0	0.0	0.0	1.0	1.0	1.0	1	0	1.0	1	"
+""Italy"""	198.0	218	334.0	649.0	631.0	231.0	275.0	188	148.0	163.0	230.0	211.0	227.0	304.0	720.0	754.0	363	27	471.0	1	"
+""Jordan"""	35.0	15	7.0	0.0	2.0	0.0	13.0	0	38.0	50.0	0.0	10.0	13.0	15.0	0.0	32.0	0	1	1.0	1	"
+""Portugal"""	2.0	0	2.0	0.0	0.0	1.0	0.0	0	1.0	1.0	2.0	1.0	2.0	2.0	1.0	1.0	No Quantity	0	1.0	1	"
+""Timor-Leste"""	0.0	0	0.0	0.0	0.0	1.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Sao Tome and Principe"""	0.0	0	0.0	0.0	0.0	0.0	1.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Niger"""	0.0	0	1.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	1	1.0	0	"
+""Nigeria"""	0.0	0	2.0	0.0	0.0	2.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	2.0	0	0	1.0	0	"
+""Norway"""	1.0	1	1.0	0.0	324.0	182.0	0.0	0	0.0	1.0	0.0	65.0	216.0	173.0	194.0	22.0	0	0	0.0	0	"
+""Philippines"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0	4	0	0.0	0	"
+""Maldives"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Malta"""	1.0	1	1.0	0.0	0.0	0.0	0.0	1	0.0	1.0	2.0	3.0	0.0	2.0	1.0	1.0	0	5	0.0	0	"
+""Mauritania"""	0.0	0	0.0	0.0	1.0	0.0	0.0	1	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Mauritius"""	13.0	0	0.0	0.0	0.0	0.0	0.0	0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Mexico"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	2.0	0.0	0.0	0.0	0.0	0.0	11.0	0	0	0.0	0	"
+""Netherlands Antilles"""	3.0	4	1.0	6.0	2.0	1.0	3.0	0	2.0	1.0	1.0	2.0	3.0	0.0	1.0	0.0	2	0	1.0	0	"
+""Kenya"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0.0	0	0	0.0	0	"
+""Korea, Republic of"""	20.0	3	20.0	2.0	42.0	0.0	0.0	0	80.0	66.0	0.0	0.0	0.0	1.0	0.0	0.0	1	0	0.0	0	"
+""Kuwait"""	0.0	0	75.0	0.0	0.0	0.0	0.0	0	19.0	0.0	0.0	69.0	25.0	25.0	1.0	25.0	0	0	0.0	0	"
+""Ireland"""	0.0	0	3.0	5.0	180.0	0.0	148.0	0	380.0	681.0	815.0	1256.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Israel"""	1.0	3	1.0	1.0	0.0	0.0	0.0	0	0.0	0.0	5.0	0.0	0.0	0.0	0.0	7.0	0	0	0.0	0	"
+""Iran, Islamic Republic of"""	0.0	0	0.0	0.0	100.0	0.0	100.0	0	0.0	0.0	0.0	0.0	0.0	100.0	100.0	0.0	0	0	0.0	0	"
+""Côte d'Ivoire"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	1.0	0	"
+""Japan"""	150.0	100	0.0	1.0	1.0	0.0	0.0	100	275.0	150.0	425.0	635.0	0.0	417.0	125.0	0.0	0	0	0.0	0	"
+""Latvia"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	20.0	0.0	10.0	10.0	10.0	10.0	10.0	10	0	0.0	0	"
+""Libya, State of"""	0.0	0	0.0	0.0	0.0	0.0	18.0	0	17.0	22.0	18.0	0.0	0.0	0.0	0.0	18.0	0	No Quantity	0.0	0	"
+""Luxembourg"""	0.0	No Quantity	0.0	0.0	0.0	0.0	0.0	No Quantity	0.0	0.0	22.0	22.0	44.0	44.0	0.0	37.0	0	0	0.0	0	"
+""Cuba"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	1.0	0.0	0.0	0.0	50.0	0.0	0	0	0.0	0	"
+""Cyprus"""	32.0	0	0.0	0.0	0.0	0.0	2.0	0	28.0	2.0	0.0	5.0	0.0	0.0	0.0	0.0	23	0	0.0	0	"
+""Czech Republic"""	0.0	1	0.0	0.0	0.0	0.0	41.0	0	23.0	18.0	0.0	0.0	0.0	0.0	0.0	1.0	22	0	0.0	0	"
+""Denmark"""	13.0	25	8.0	31.0	15.0	27.0	165.0	79	15.0	17.0	25.0	16.0	763.0	161.0	94.0	749.0	26	258	33.0	No Quantity	"
+""Dominican Republic"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Equatorial Guinea"""	0.0	3	11.0	3.0	0.0	2.0	0.0	6	1.0	2.0	7.0	5.0	4.0	2.0	2.0	5.0	1	3	8.0	0	"
+""Ethiopia"""	0.0	0	1.0	0.0	0.0	0.0	0.0	0	0.0	0.0	1.0	0.0	0.0	0.0	2.0	0.0	0	1	0.0	0	"
+""Eritrea"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Estonia"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	20.0	0.0	13.0	10.0	10.0	10.0	21.0	40	0	0.0	0	"
+""Finland"""	0.0	72	120.0	120.0	96.0	12.0	0.0	0	0.0	0.0	47.0	0.0	24.0	0.0	46.0	110.0	44	44	2.0	0	"
+""Bulgaria"""	0.0	0	0.0	2.0	3.0	0.0	0.0	0	24.0	2.0	0.0	0.0	2.0	0.0	27.0	44.0	3	0	3.0	0	"
+""Cambodia"""	1.0	0	0.0	1.0	4.0	0.0	1.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	1	0.0	0	"
+""Canada"""	1.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Cabo Verde"""	0.0	14	14.0	0.0	0.0	0.0	14.0	0	0.0	0.0	0.0	0.0	14.0	0.0	14.0	0.0	0	0	0.0	0	"
+""Afghanistan"""	0.0	0	2.0	9.0	2.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Algeria"""	0.0	0	22.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Angola"""	0.0	0	0.0	1.0	0.0	3.0	0.0	0	0.0	0.0	0.0	2.0	1.0	1.0	2.0	1.0	0	0	4.0	0	"
+""Azerbaijan"""	25.0	0	0.0	0.0	23.0	20.0	22.0	0	1.0	22.0	21.0	0.0	0.0	19.0	0.0	0.0	20	0	0.0	0	"
+""Argentina"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Bahrain"""	0.0	9	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	19.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Bangladesh"""	0.0	1	0.0	0.0	0.0	0.0	0.0	0	0.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	1	0	0.0	0	"
+""Gabon"""	2.0	0	2.0	0.0	0.0	1.0	0.0	1	0.0	0.0	1.0	0.0	0.0	0.0	1.0	0.0	0	1	0.0	0	"
+""Georgia"""	0.0	0	17.0	1.0	0.0	0.0	0.0	0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Gambia"""	1.0	1	2.0	1.0	5.0	1.0	1.0	5	0.0	3.0	0.0	0.0	0.0	0.0	4.0	1.0	0	0	1.0	0	"
+""Gibraltar"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Comoros"""	0.0	0	0.0	0.0	0.0	0.0	1.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0	0	0.0	0	"
+""Haiti"""	0.0	0	0.0	0.0	1.0	1.0	0.0	1	0.0	0.0	2.0	0.0	0.0	1.0	0.0	0.0	0	0	0.0	0	"
+""Hong Kong, China"""	0.0	1	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	1.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Hungary"""	76.0	84	84.0	63.0	84.0	63.0	63.0	84	21.0	22.0	0.0	43.0	54.0	45.0	78.0	80.0	15	0	45.0	0	"
+""Tanzania, United Republic of"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Venezuela, Bolivarian Republic of"""	0.0	0	0.0	0.0	0.0	0.0	48.0	0	0.0	0.0	48.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Yemen"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	80.0	0.0	68.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Macedonia, North"""	0.0	0	0.0	0.0	2.0	0.0	0.0	0	0.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Egypt"""	34.0	34	0.0	17.0	0.0	17.0	0.0	0	267.0	8.0	34.0	34.0	0.0	17.0	17.0	0.0	0	0	34.0	0	"
+""Turkmenistan"""	0.0	0	0.0	0.0	2.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Uganda"""	0.0	0	0.0	0.0	0.0	0.0	1.0	0	0.0	0.0	0.0	1.0	2.0	0.0	0.0	0.0	0	0	1.0	0	"
+""United States of America"""	18.0	0	0.0	1.0	0.0	0.0	0.0	1	0.0	0.0	0.0	0.0	0.0	1.0	1.0	54.0	234	0	0.0	0	"
+""United States Minor Outlying Islands"""	2.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Burkina Faso"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.0	0	0	0.0	0	"
+""Suriname"""	7.0	7	3.0	4.0	3.0	1.0	4.0	1	0.0	0.0	0.0	11.0	1.0	4.0	5.0	2.0	1	0	0.0	0	"
+""Sweden"""	0.0	0	1.0	0.0	0.0	83.0	67.0	92	16.0	40.0	37.0	27.0	48.0	131.0	117.0	94.0	102	66	77.0	0	"
+""Switzerland"""	0.0	0	1.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	20.0	0.0	0	0	1.0	0	"
+""Trinidad and Tobago"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""United Arab Emirates"""	0.0	0	14.0	0.0	0.0	0.0	0.0	0	16.0	25.0	36.0	0.0	9.0	151.0	26.0	18.0	18	0	0.0	0	"
+""Tunisia"""	0.0	0	0.0	0.0	0.0	176.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Slovenia"""	1.0	0	1.0	0.0	0.0	1.0	0.0	1	0.0	1.0	0.0	1.0	0.0	0.0	1.0	0.0	1	0	1.0	0	"
+""Somalia"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Slovakia"""	0.0	22	0.0	0.0	23.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	1	2.0	0	"
+""Serbia"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0	0.0	0	"
+""Seychelles"""	0.0	0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	2.0	0.0	0	0	0.0	0	"
+""Sierra Leone"""	2.0	0	0.0	7.0	4.0	0.0	1.0	1	1.0	1.0	0.0	2.0	4.0	2.0	4.0	4.0	0	0	0.0	0	
+																					
